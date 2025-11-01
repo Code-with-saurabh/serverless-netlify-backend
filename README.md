@@ -244,5 +244,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 3. **Environment Variables**: It covers how to manage sensitive data using `.env` files and how to set them on Netlify for production.
 4. **FAQs**: Answers to common questions like troubleshooting errors and expanding the API functionality.
 
-Feel free to copy this `README.md` file, paste it into your project, and you should be good to go!
-```
+---
