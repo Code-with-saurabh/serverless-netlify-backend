@@ -1,6 +1,4 @@
-Got it! Here's a `README.md` tailored according to the structure and style from the GitHub repository link you provided:
-
-````markdown
+ 
 # Serverless Netlify Backend
 
 This repository demonstrates how to deploy a backend API using **Express.js** as a **serverless function** on **Netlify**. In this guide, you'll learn to create, configure, and deploy serverless functions using **Netlify Functions**, **serverless-http**, and **Express** in a simple, step-by-step process.
